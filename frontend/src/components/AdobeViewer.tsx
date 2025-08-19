@@ -246,6 +246,7 @@ export const AdobeViewer = forwardRef<AdobeViewerRef, AdobeViewerProps>(
             console.error("No URL or blob available for PDF:", pdfDoc);
             setIsLoading(false);
             return;
+            
           }
 
           const previewPromise = adobeDCView.previewFile(
