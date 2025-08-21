@@ -65,7 +65,7 @@ VITE_ADOBE_EMBED_API_KEY=5e508e7a4fba45738198ef86edcf2a27
 Located in the `backend/` folder. Built using:
 
 * Python
-* Gemini 2.5 Flash – for LLM calls (recommendations and insights).
+* Gemini 2.5 Flash – for LLM calls (podcast and  insights).
 * Gemini TTS – for generating audio in Podcast Mode.
 
 ### Models Used
