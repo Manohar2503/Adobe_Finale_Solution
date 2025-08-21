@@ -54,9 +54,10 @@ If recommendations or insights do not appear automatically:
 
 1. Copy the selected text.
 2. Paste it into the `selected_text` field inside the `fetchRecommendations()` and `useQuery()` function.
-
+Go back to library re analize it.
 This ensures smooth manual testing during development.
 
+VITE_ADOBE_EMBED_API_KEY=5e508e7a4fba45738198ef86edcf2a27
 ---
 
 ## Backend
@@ -109,7 +110,7 @@ Once the container is running, open:
 
 * Working prototype (browser-accessible).
 * Frontend and Backend integrated.
-* Insights and Recommendations powered by Gemini.
+* Insights and Podcast are powered by Gemini.
 * TTS (Podcast Mode) enabled.
 
 ---
